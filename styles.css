@@ -76,3 +76,8 @@ img {
   font-weight: 400;
   margin-bottom: 8px;
 }
+
+.info-card a {
+  color: #007daa;
+  text-decoration: none;
+}
