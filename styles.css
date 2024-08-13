@@ -83,6 +83,10 @@ img {
 }
 
 @media (max-width: 600px) {
+  .page {
+    height: 100svh;
+  }
+  
   .info-card {
     width: 100%;
     justify-content: flex-start;
