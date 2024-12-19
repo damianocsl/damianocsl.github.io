@@ -1,0 +1,11 @@
+{
+	"name": "damianocsl.github.io",
+	"version": "1.0.0",
+	"description": "Personal website",
+	"main": "src/index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "MIT"
+}
