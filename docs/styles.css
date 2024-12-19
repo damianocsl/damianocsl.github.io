@@ -100,3 +100,17 @@ img {
 		justify-content: flex-start;
 	}
 }
+
+.projects-list {
+	display: flex;
+	justify-content: space-between;
+	gap: 16px;
+	padding-top: 8px;
+}
+
+.project {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	align-items: center;
+}
