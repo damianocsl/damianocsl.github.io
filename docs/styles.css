@@ -86,7 +86,7 @@ img {
 	text-decoration: none;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 520px) {
 	.page {
 		height: 100svh;
 	}
@@ -102,6 +102,12 @@ img {
 	justify-content: space-between;
 	gap: 16px;
 	padding-top: 8px;
+}
+
+@media (max-width: 520px) {
+	.projects-list {
+		flex-direction: column;
+	}
 }
 
 .project {
@@ -129,6 +135,7 @@ img {
 
 .badges {
 	display: flex;
+	flex-wrap: wrap;
 	gap: 4px;
 }
 
