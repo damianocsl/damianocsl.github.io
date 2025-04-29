@@ -120,6 +120,8 @@ img {
 	padding: 12px 16px;
 	box-shadow: 0 0 5px hsla(196, 100%, 10%, 0.125);
 	background-color: #fff5;
+	flex: 1;
+	justify-content: center;
 }
 
 .project:hover {
